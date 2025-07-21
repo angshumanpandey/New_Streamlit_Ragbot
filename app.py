@@ -4,13 +4,8 @@
 # In[1]:
 
 
-get_ipython().system('pip install -qU langchain-google-genai')
-
 
 # In[3]:
-
-
-get_ipython().system('pip install streamlit')
 
 
 # In[7]:
